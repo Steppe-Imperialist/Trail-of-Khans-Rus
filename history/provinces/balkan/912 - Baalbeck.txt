@@ -1,0 +1,8 @@
+owner = JER
+controller = JER
+add_core = JER
+add_core = LBN
+trade_goods = timber
+life_rating = 35
+
+

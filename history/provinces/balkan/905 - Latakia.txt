@@ -1,0 +1,9 @@
+owner = JER
+controller = JER
+add_core = JER
+add_core = SYR
+trade_goods = tobacco
+life_rating = 35
+terrain = hills
+
+

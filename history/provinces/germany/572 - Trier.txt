@@ -1,0 +1,25 @@
+owner = NET
+controller = NET
+add_core = NET
+add_core = GER
+add_core = RHI
+trade_goods = iron
+life_rating = 38
+fort = 2
+    state_building = {
+        level = 1
+        building = small_arms_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = cement_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = winery
+        upgrade = yes
+    }
+}
+

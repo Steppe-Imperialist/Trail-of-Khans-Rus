@@ -1,0 +1,8 @@
+owner = IRE
+controller = IRE
+add_core = ZAN
+trade_goods = grain
+terrain = savanna
+life_rating = 35
+
+

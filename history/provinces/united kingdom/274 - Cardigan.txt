@@ -1,0 +1,33 @@
+owner = IRE
+controller = IRE
+add_core = IRE 
+add_core = GAE
+add_core = WHA
+trade_goods = iron
+life_rating = 36
+
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+        level = 1
+        building = ammunition_factory
+        upgrade = yes
+    }
+state_building = {
+        level = 1
+        building = fertilizer_factory
+        upgrade = yes
+    }
+state_building = {
+        level = 1
+        building = artillery_factory
+        upgrade = yes
+    }
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+}
