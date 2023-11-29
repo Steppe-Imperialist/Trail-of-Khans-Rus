@@ -111,7 +111,7 @@ USA_247 = { 247 246 248 249 250 } #New England
 
 ### United Kingdom
 
-ENG_254 = { 254 255 256 } #Ulster
+ENG_254 = { 254 255 256 304 } #Ulster
 
 ENG_258 = { 258 259 257 } #Connacht
 
@@ -125,11 +125,11 @@ ENG_271 = { 271 269 270 272 } #Lowlands
 
 ENG_273 = { 273 274 275 276 } #Wales
 
-ENG_277 = { 277 278 279 285 304 } #North West England
+ENG_277 = { 278 282 283 285 } #North West England
 
-ENG_280 = { 280 281 290 } #North East England
+ENG_280 = { 277 279 280 } #North East England
 
-ENG_284 = { 288 289 282 283 } #West Midlands
+ENG_284 = { 290 288 289 281 } #West Midlands
 
 ENG_291 = { 291 292 293 295 } #Eastern Counties
 
@@ -992,7 +992,7 @@ SOK_1937 = { 1937 1942 1943 1944 1950 } #Tukari - West Central Nigeria
 
 ### Central Africa
 
-SPA_1955 = { 1955 1954 1973 } #Equatorial Guinea
+SPA_1955 = { 1955 1954 } #Equatorial Guinea
 
 ENG_1956 = { 1956 1957 1958 1959 1962 } #Cameroon
 
@@ -1002,7 +1002,7 @@ FRA_1965 = { 1965 1966 1967 1968 1970 1971 1969 } #Ubangi-Shari
 
 #FRA_1970 = { } #Bangassou
 
-FRA_1972 = { 1972 1974 1975 1976 } #Gabon
+FRA_1972 = { 1972 1973 1974 1975 1976 } #Gabon
 
 BEL_1977 = { 1982 1983 1985 2000 } #Bas-Congo/Lower Congo
 
